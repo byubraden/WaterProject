@@ -257,3 +257,4 @@
 /Users/bradenstevens/Desktop/IS WINTER 2025/IS 413/WaterProject/backend/WaterProject.API/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
 /Users/bradenstevens/Desktop/IS WINTER 2025/IS 413/WaterProject/backend/WaterProject.API/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
 /Users/bradenstevens/Desktop/IS WINTER 2025/IS 413/WaterProject/backend/WaterProject.API/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+/Users/bradenstevens/Desktop/IS WINTER 2025/IS 413/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/WaterProject.API.sourcelink.json
